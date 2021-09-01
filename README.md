@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Felipe Batista
 
-Estudando ciência da computação 
+Estudando ciência da computação<br>
 Trying to be a dev full stack
  <div>
   <a href="https://github.com/Felipeb26">
