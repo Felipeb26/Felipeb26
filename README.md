@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe Batista
 
-🌱 Estudando ciência da computação 
-
+Estudando ciência da computação 
+Trying to be a dev full stack
  <div>
   <a href="https://github.com/Felipeb26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipeb26&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
