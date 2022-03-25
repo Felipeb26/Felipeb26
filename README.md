@@ -22,7 +22,7 @@ Looking to become a Full Stack Developer
 </div>
   
   ## 
- ### 📫 Para entrar em contato
+ ### Profiles Visit
 <div>
     <p align="center">
     <img height="25px" alingn="center" src="https://profile-counter.glitch.me/rednand/count.svg" />
