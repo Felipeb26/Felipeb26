@@ -22,6 +22,14 @@ Looking to become a Full Stack Developer
 </div>
   
   ## 
+ ### 📫 Para entrar em contato
+<div>
+    <p align="center">
+    <img height="25px" alingn="center" src="https://profile-counter.glitch.me/rednand/count.svg" />
+    </p>
+ </div>
+  
+  ## 
  ### 📫 Para entrar em contato:
 <div> 
   <a href = "mailto:felipeb2silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
