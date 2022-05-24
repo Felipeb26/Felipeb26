@@ -20,15 +20,6 @@ Looking to become a Full Stack Developer
 <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
 </div>
-  
-  ## 
-# Profiles Visit
-#<div>
-#    <p align="center">
-#  <img height="25px" alingn="center" src="https://profile-counter.glitch.me/rednand/count.svg" />
-#   </p>
-# </div>
-  
   ## 
  ### 📫 Para entrar em contato:
 <div> 
