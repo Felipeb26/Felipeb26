@@ -20,7 +20,7 @@ Looking to become a Full Stack Developer
 <img align="center" alt="Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 
 </div>
-  ## 
+  
  ### 📫 Para entrar em contato:
 <div> 
   <a href = "mailto:felipeb2silva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
