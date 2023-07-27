@@ -27,5 +27,5 @@ Looking to become a Full Stack Developer
   <a href="https://www.linkedin.com/in/felipe-batista-9b0122189/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://api.whatsapp.com/send?phone=5511971404157" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
- ![Snake animation](https://github.com/Felipeb26/Felipeb26/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/Felipeb26/Felipeb26/blob/output/github-contribution-grid-snake.gif)
 </div>
