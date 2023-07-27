@@ -2,10 +2,10 @@
 ### **Desenvolvedor Back End**
 
 <br>
-<table style="border-radios: 5px;">
+<table>
     <tr>
         <td>
-          <img width="450em" src="https://github-readme-stats.vercel.app/api?username=Felipeb26&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+          <img width="450" src="https://github-readme-stats.vercel.app/api?username=Felipeb26&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
         </td>
     </tr>
     <tr>
@@ -54,6 +54,17 @@
             <img align="center" alt="Spring" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+        </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+        </td>
+    </tr>
 </table>
   
 
@@ -62,7 +73,7 @@
     <h3>📫 Para entrar em contato</h3>
   <a href = "mailto:felipeb2silva@gmail.com"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-batista-9b0122189/" target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="http://api.whatsapp.com/send?phone=5511971404157" target="_blank"><img height="35" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href="http://api.whatsapp.com/send?phone=5511971404157" target="_blank"><img height="35"src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   
  <!-- ![snake gif](https://github.com/Felipeb26/Felipeb26/blob/output/github-contribution-grid-snake.gif) -->
 </div>
