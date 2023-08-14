@@ -64,6 +64,9 @@
         <td>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
         </td>
+        <td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg"/>
+        </td>
     </tr>
 </table>
   
