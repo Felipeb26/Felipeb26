@@ -3,11 +3,11 @@
 
 <br>
 <table>
-    <tr>
+<!--     <tr>
         <td>
           <img width="450" src="https://github-readme-stats.vercel.app/api?username=Felipeb26&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Felipeb26&theme=merko" alt="felipe batista"/>
