@@ -22,7 +22,7 @@ I'm also into infrastructure and automation: my homelab runs on Proxmox (LXC/VMs
   <img alt="Git" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
-- ☕ **Backend:** Java 8/21, Spring Boot, REST APIs
+- ☕ **Backend:** Java, Spring Boot, REST APIs
 - 🗄️ **Data & Messaging:** PostgreSQL, Oracle, RabbitMQ, AWS SQS
 - ☁️ **Cloud & Infrastructure:** AWS, Docker, Kubernetes (k3s), Linux
 - 🏠 **Homelab:** Proxmox (LXC/VMs), GPU passthrough, Tailscale; previously k3s + ArgoCD (GitOps)
